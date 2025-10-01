@@ -52,7 +52,7 @@
 
 ## 📈 Competitive Programming
 
-- 🟣 [LeetCode](https://leetcode.com/u/shwetank00/) – 1600+ problems solved
+- 🟣 [LeetCode](https://leetcode.com/u/shwetank00/) – 300+ problems solved
 - 🔵 [Codeforces](https://codeforces.com/profile/shwetank00) – Expert (1434 rating)
 - 🟢 [Codolio](https://codolio.com/profile/shwetank00) – Unified profile
 
