@@ -1,76 +1,82 @@
-# Hi, I'm Shwetank Jain 👋
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm <span style="color:#0077b6;">Shwetank Jain</span></h1>
+<h3 align="center">🚀 Software Engineer | Full-Stack Developer | Problem Solver</h3>
 
-🚀 Software Engineer | Full-Stack Developer | Problem Solver
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-shwetank.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shwetank00/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shwetank00)
-
----
-
-## 💡 About Me
-
-- 🎓 B.Tech in Electronics & Communication Engineering at **MNNIT Allahabad**
-- 💻 Passionate about **secure web applications, scalable backend systems, and AI integration**
-- 🏆 Competitive programmer with **500+ DSA problems solved** across LeetCode, Codeforces, and more
-- 🔍 Always exploring **System Design, MERN/Next.js stack, and cloud-native development**
+<p align="center">
+  <a href="https://portfolio-shwetank.vercel.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-0077b6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shwetank00/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Shwetank00"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## ✨ About Me
 
-- **Languages:** C, C++, JavaScript (ES6), SQL, HTML, CSS
-- **Frontend:** React, Next.js, Tailwind, shadcn/ui
-- **Backend:** Node.js/Express, Prisma
-- **Databases:** PostgreSQL, MongoDB, Supabase
-- **Tools:** GitHub Actions, Clerk, Inngest, Arcjet, Resend, Postman, OpenAPI
-- **Cloud:** Vercel, Render, AWS (basic)
+- 🎓 B.Tech in **Electronics & Communication Engineering** @ MNNIT Allahabad
+- 💻 Focused on **secure web apps, scalable systems, and AI integration**
+- 🏆 Solved **500+ DSA problems** across LeetCode, Codeforces & more
+- 🌱 Exploring **System Design + Advanced Full-Stack Dev**
 
 ---
 
-## 🚀 Projects
+## ⚡ Tech Stack
 
-### [Welth – AI Finance Platform](https://welth-shwetank.vercel.app/)
-
-🔹 Tech: Next.js, Prisma, Supabase, Gemini API
-
-- Automated 100% of budget recalculations via transactional queries
-- AI-powered OCR for receipts → cut manual entry by 70%
-- Scalable auth & rate limiting with Clerk RBAC + Arcjet
-- [Source Code](https://github.com/Shwetank00/welth) | [Live Demo](https://welth-shwetank.vercel.app/)
-
-### [Keeper – Notes Management App](https://keeper-shwetank.vercel.app/)
-
-🔹 Tech: MERN (MongoDB, Express, React, Node.js)
-
-- Optimized query latency by 40% using compound indexes
-- Secure JWT-based RBAC authentication
-- CI/CD with GitHub Actions & Vercel → reduced release effort by 70%
-- [Source Code](https://github.com/Shwetank00/keeper) | [Live Demo](https://keeper-shwetank.vercel.app/)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nextjs,nodejs,express,tailwind,prisma,mongodb,postgres,git,vercel,aws" />
+</p>
 
 ---
 
-## 📈 Competitive Programming
+## 🚀 Featured Projects
 
-- 🟣 [LeetCode](https://leetcode.com/u/shwetank00/) – 300+ problems solved
-- 🔵 [Codeforces](https://codeforces.com/profile/shwetank00) – Expert (1434 rating)
-- 🟢 [Codolio](https://codolio.com/profile/shwetank00) – Unified profile
+### 🔹 [Welth – AI Finance Platform](https://welth-shwetank.vercel.app/)
+
+💡 _Next.js, Prisma, Supabase, Gemini API_
+
+- ⚡ Automated 100% of budget recalculations
+- 🧠 AI OCR for receipts → cut manual entry **70%**
+- 🔒 Secure RBAC + Arcjet rate limiting  
+  👉 [Source](https://github.com/Shwetank00/welth) • [Live Demo](https://welth-shwetank.vercel.app/)
+
+---
+
+### 🔹 [Keeper – Notes Management App](https://keeper-shwetank.vercel.app/)
+
+💡 _MongoDB, Express, React, Node.js_
+
+- 🚀 Optimized queries → **40% faster**
+- 🔑 JWT-based RBAC auth for endpoints
+- 🔄 CI/CD with Vercel → **70% less release effort**  
+  👉 [Source](https://github.com/Shwetank00/keeper) • [Live Demo](https://keeper-shwetank.vercel.app/)
+
+---
+
+## 📊 Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/u/shwetank00/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/shwetank00"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://codolio.com/profile/shwetank00"><img src="https://img.shields.io/badge/Codolio-28a745?style=for-the-badge&logo=codeium&logoColor=white" /></a>
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-- Top **1% (AIR 9567)** in JEE Mains 2022 (1M+ candidates)
-- Runner-up, **Bumble See Robotics (2023)** & **Falcon Aero (2024)**
-- Led outreach for **3 technical clubs**, boosting event turnout by 25%
+- 🥇 **Top 1% (AIR 9567)** in JEE Mains (1M+ candidates)
+- 🤖 Runner-up, **Bumble See Robotics 2023**
+- ✈️ Runner-up, **Falcon Aero 2024**
+- 🎯 Led outreach for **3 technical clubs** → boosted turnout 25%
 
 ---
 
-## 📬 Get in Touch
+## 📬 Connect With Me
 
-- **Email:** [shwetankjain00@gmail.com](mailto:shwetankjain00@gmail.com)
-- **Portfolio:** [portfolio-shwetank.vercel.app](https://portfolio-shwetank.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/shwetank00](https://www.linkedin.com/in/shwetank00/)
+<p align="center">
+  <a href="mailto:shwetankjain00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://portfolio-shwetank.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0077b6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shwetank00/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
